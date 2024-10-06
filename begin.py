@@ -1,3 +1,4 @@
 a=5
-b=6
-print("Printing result",a+b)
+b=8
+c=1
+print("Printing result",a+b+c)
